@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm a fresh graduate of Master in Data Science
+- 🔭 I'm a graduate of Master in Data Science, Bucharest University
 - 🌱 I’m intersted in Data Science, Machine Learning, Computer Vision and NLP
 - 📫 Reach me by: <br/> 
           • Email: rmhanciu@yahoo.com <br/>
